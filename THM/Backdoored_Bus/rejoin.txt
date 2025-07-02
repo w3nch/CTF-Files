@@ -1,1 +1,2 @@
-cat modbus-container-final-1750975076803.tar_* > archive.tar.gz
+The file has been uploaded to MEGA, as I didn’t want to split it for uploading to GitHub.
+Mega Link(using transfer.it) : https://transfer.it/t/YPGqVApl1ZYR
