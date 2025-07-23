@@ -7,16 +7,22 @@ Welcome to my collection of **CTF tools**, scripts, and **writeups**. This repo 
 ## 📂 Repository Structure
 
 ```bash
-.
-├── tools/           # All CTF tools and scripts
-│   ├── xor_crack.py
-│   ├── jwt_crack.py
-│   ├── steg_solver.py
-│   └── ...
-├── writeups/        # Challenge walkthroughs
-│   ├── DUCTF_2025/
-│   ├── HTB_Outbound/
-│   └── ...
-├── wordlists/       # Useful wordlists (custom & curated)
-├── README.md        # You're here
-└── LICENSE
+├── CTF Tool
+│   ├── Crypto
+│   │   └── xor_crack.py
+│   └── Web
+│       └── race_condition.py
+├── nothing
+├── README.md
+└── writeups
+    ├── HTB
+    │   └── dog
+    │       └── writup-link
+    └── THM
+        ├── Backdoored_Bus
+        │   ├── source.txt
+        │   └── writup-link
+        └── Orcam
+            ├── Email.eml
+            └── writup-link
+```
